@@ -21,8 +21,6 @@ For this project, I tried to put myself in the shoes of a Airbnb host in Seattle
 2. Which amenities contributes the most to increase a listing rating?
 3. When is the busiest period in Seattle, based on houses availability? Are the prices following the trend?
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
-
 ## File Descriptions <a name="files"></a>
 
 There is one notebook that contains the answers to the three questions mentioned above. The notebook will first clean the data, and will then focus on each question separately. For each of them, there is an exploratory analysis of the data, followed by a model for questions 1 and 2, and ends with a visualization of the results.
