@@ -19,7 +19,7 @@ For this project, I tried to put myself in the shoes of a Airbnb host in Seattle
 
 1. What influences the price of Airbnb listings?
 2. Which amenities contributes the most to increase a listing rating?
-3. When is the busiest period in Seattle, based on houses availability? Are the prices following the trend?
+3. How does the number of listings evolve over time? Do the prices follow this trend?
 
 ## File Descriptions <a name="files"></a>
 
