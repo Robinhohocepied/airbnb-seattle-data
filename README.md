@@ -31,7 +31,7 @@ The data is also included in the repository.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](post_link).
+The main findings of the code can be found at the post available [here](https://medium.com/@julietrinco/three-tips-to-improve-your-seattle-airbnb-host-offering-a103169404ed).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
